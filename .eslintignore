@@ -1,0 +1,19 @@
+# dir
+.idea
+.vscode
+node_modules
+
+/dist
+/public
+/docs
+/bin
+
+# file
+*.sh
+*.md
+*.woff
+*.ttf
+.husky
+.local
+
+*.d.ts
